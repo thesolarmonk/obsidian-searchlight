@@ -1,0 +1,10 @@
+{
+  "id": "searchlight",
+  "name": "Searchlight",
+  "description": "",
+  "version": "0.0.10",
+  "author": "thesolarmonk",
+  "authorUrl": "https://github.com/thesolarmonk/",
+  "isDesktopOnly": false,
+  "minAppVersion": "0.9.11"
+}
